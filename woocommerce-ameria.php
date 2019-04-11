@@ -49,9 +49,9 @@ function custom_payment_gateway_load() {
             global $woocommerce;
 
             // Ameria vars
-            $this->clientID = '';
-            $this->username = '';
-            $this->password = ''; 
+            $this->clientID = '22f78162-776b-4628-a678-83fd200519f8';
+            $this->username = '3d19541048';
+            $this->password = 'lazY2k'; 
 
             // plugin params
             $this->id             = 'Ameria';
